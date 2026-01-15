@@ -1,4 +1,4 @@
-# Frontend Mentor - Componente de vista previa de producto
+# Frontend Mentor - Componente card de vista previa de producto
 
 Esta es mi solución al reto **Product preview card component**  [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) de Frontend Mentor.  
 El proyecto fue desarrollado usando HTML y CSS, cuidando una estructura clara y un diseño responsive.
